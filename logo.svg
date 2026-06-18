@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 240" role="img" aria-label="Fluxá Motors">
+  <defs>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#dfe4ec"/>
+      <stop offset="1" stop-color="#8a93a2"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff2a1f"/>
+      <stop offset="1" stop-color="#c8140d"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Mark: red dynamic F + silver wheel -->
+  <g transform="skewX(-9)">
+    <path fill="url(#red)" d="M64 28 H196 L176 64 H100 V96 H156 L138 132 H100 V212 H64 Z"/>
+  </g>
+  <circle cx="118" cy="176" r="42" fill="url(#silver)"/>
+  <circle cx="118" cy="176" r="19" fill="#0d1b3e"/>
+
+  <!-- Wordmark -->
+  <text x="250" y="118" font-family="'Poppins','Arial Black',Arial,sans-serif" font-weight="800" font-size="104" fill="url(#silver)">luxá</text>
+  <text x="252" y="200" font-family="'Poppins','Arial Black',Arial,sans-serif" font-weight="700" font-size="70" fill="url(#silver)">Motors</text>
+</svg>
