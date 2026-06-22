@@ -76,3 +76,4 @@ Patrón de confianza: badges de verificación, testimonios con estrellas, copy d
 ## Preferencias de quien lidera el proyecto
 
 Benja es consultor (Raven). Prefiere respuestas concisas, directas y estructuradas (estilo McKinsey, bullets MECE).
+
