@@ -1,4 +1,97 @@
+# robots.txt — https://www.fluxamotors.cl/
+# Todo el sitio es indexable por cualquier buscador.
+
 User-agent: *
+Allow: /
+
+# --- Buscadores ---
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+User-agent: PetalBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Qwantify
+Allow: /
+
+User-agent: MojeekBot
+Allow: /
+
+User-agent: Neevabot
+Allow: /
+
+# --- Vista previa de enlaces en redes y mensajería ---
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: facebookcatalog
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+User-agent: redditbot
+Allow: /
+
+User-agent: Slackbot-LinkExpanding
+Allow: /
+
+# --- Asistentes de IA (tráfico de referencia) ---
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
 Allow: /
 
 Sitemap: https://www.fluxamotors.cl/sitemap.xml

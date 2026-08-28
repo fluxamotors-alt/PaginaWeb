@@ -1,33 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
   <url>
     <loc>https://www.fluxamotors.cl/</loc>
-    <lastmod>2026-06-30</lastmod>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.fluxamotors.cl/og-image.jpg</image:loc>
+      <image:title>FluxáMotors — Compra y vende tu auto con confianza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.fluxamotors.cl/auto-fluxamotors.jpg</image:loc>
+      <image:title>Autos usados seleccionados en FluxáMotors, Las Condes</image:title>
+    </image:image>
   </url>
+
   <url>
     <loc>https://www.fluxamotors.cl/inventario.html</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.fluxamotors.cl/og-inventario.jpg</image:loc>
+      <image:title>Inventario de autos usados FluxáMotors</image:title>
+    </image:image>
   </url>
+
   <url>
     <loc>https://www.fluxamotors.cl/financiamiento.html</loc>
-    <lastmod>2026-06-30</lastmod>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.fluxamotors.cl/og-financiamiento.jpg</image:loc>
+      <image:title>Financiamiento automotriz FluxáMotors</image:title>
+    </image:image>
   </url>
+
   <url>
     <loc>https://www.fluxamotors.cl/nosotros.html</loc>
-    <lastmod>2026-06-30</lastmod>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://www.fluxamotors.cl/og-nosotros.jpg</image:loc>
+      <image:title>Quiénes somos — FluxáMotors</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.fluxamotors.cl/auto-nosotros.jpg</image:loc>
+      <image:title>FluxáMotors, automotora en Las Condes</image:title>
+    </image:image>
   </url>
+
   <url>
     <loc>https://www.fluxamotors.cl/contacto.html</loc>
-    <lastmod>2026-06-30</lastmod>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.fluxamotors.cl/og-contacto.jpg</image:loc>
+      <image:title>Contacto FluxáMotors — WhatsApp +56 9 4006 9759</image:title>
+    </image:image>
   </url>
+
 </urlset>
