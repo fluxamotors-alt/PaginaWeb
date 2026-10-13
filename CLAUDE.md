@@ -15,8 +15,8 @@ Objetivo: presencia online 24/7 que transmita **cercanía y confianza**, con Wha
 
 - Teléfono / WhatsApp: **+56 9 4006 9759** → enlaces como `https://wa.me/56940069759`
 - Email: **fluxamotors@gmail.com**
-- Dirección: **Luxemburgo 9621, Las Condes, Santiago**
-- Google Maps: `https://www.google.com/maps/search/?api=1&query=Luxemburgo+9621%2C+Las+Condes%2C+Santiago`
+- Dirección pública: **solo la comuna — Las Condes, Santiago**. NO publicar la dirección exacta (calle/número), ni coordenadas exactas, ni código postal (decisión de Agustín, oct 2026).
+- Google Maps: `https://maps.google.com/?cid=4480946695200721606` (ficha de Google; el mapa embebido muestra la comuna, no un punto exacto)
 - Horario: Lun–Vie 9:00–18:00
 
 ## Arquitectura
@@ -76,4 +76,3 @@ Patrón de confianza: badges de verificación, testimonios con estrellas, copy d
 ## Preferencias de quien lidera el proyecto
 
 Benja es consultor (Raven). Prefiere respuestas concisas, directas y estructuradas (estilo McKinsey, bullets MECE).
-
